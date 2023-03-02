@@ -34,3 +34,8 @@ body {
   from { border-color: transparent }
   to { border-color: orange; }
 }
+
+.navbar .navbar-nav .nav-link:hover {
+  background-color: #555555;
+  color: #fff;
+}
